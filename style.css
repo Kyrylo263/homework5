@@ -1,0 +1,25 @@
+/* ===============second task================= */
+
+a[href^="https"]{
+    color: red;
+}
+
+ul+p{
+    font-size: 24px;
+}
+
+
+/* ==================third task================== */
+
+#greycol {
+    color: grey;
+}
+
+.yellow {
+    color: yellow;
+}
+
+h3:first-child{
+    color: pink;
+}
+
