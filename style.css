@@ -23,3 +23,10 @@ h3:first-child{
     color: pink;
 }
 
+.text-box>div>p{
+    color: red;
+}
+
+p:nth-last-child(2){
+    color: green;
+}
